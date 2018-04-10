@@ -1,20 +1,20 @@
 # WashingtonMetro
-### Fare Evasion Exploration
+### Fare Evasion Investigation
 
 #### Problem Statement
 The Washington Metro loses substantial amount of revenue each year to fare evaders (people who hop on bus without paying anything).
 
 #### Objective
-Our goal is to use existing administrative data along with American Community Survey data at the census block level to find a narrative on where the most fare evasion is happening and what could be the cause of it.
+Our goal is to use existing administrative data along with American Community Survey data at the census block level to find a narrative on where the most fare evasion is happening and why it is so.
 
 #### Team
 The lead Principal Investigator of the team is [Vicki Lancaster](https://www.bi.vt.edu/faculty/Vicki-Lancaster). Lata Kodali, a Ph.D. student in Statistics at Virginia Tech and I co-led a team of 4 undergraduate interns from Virginia Tech for this project.
 
 #### Deliverables
-We presented our findings to the executive at the Washington Metro Transport Authority. We also did a symposium poster on some of our work which is in this repo under **WMATAFindings.pdf**
+We presented our findings to the executives at the Washington Metro Transport Authority. We also did a symposium poster on some of our work which is in this repo under **WMATAFindings.pdf**
 
 #### Datasets
-*This repository is not for reproducibility. It is to highlight some of the work I have done via some code snippets. The datasets are under strict confidentiality agreement*
+*This repository is not for reproducibility. It is to highlight a small portion of the work I have done via some code snippets. The datasets are under strict confidentiality agreement*
 
 Some of the datasets used in the project are as below:
 1. Bus Stops (10,988 observations): bus stopID, latitude and longitude.
@@ -27,8 +27,11 @@ Some of the datasets used in the project are as below:
 2. Creating data dictionaries
 3. Data processing: standardizing time, pulling in GTFS data for joining tables, writing scaffold code for undergradutes to do data exploration on GIS map etc.
 4. Data generation: creating synthetic tripID (code snippet in this repo), calculating backdoor exits by census block groups etc
-5. Data exploration: Looking at overcrowding (code snippet in this repo) and fare evasion correlation. For overcrowding different bus types are used to determine what is considered "overcrowding" as well as WMATA's standard definition.
+5. Data exploration: Looking at overcrowding (code snippet in this repo) and fare evasion correlation. 
 
 #### Code snippets
+
+**SyntheticTripID.R** : This code file is to demonstrate my familiarity with dplyr in using it to process over millions of rows of data.
+**Overcrowding.R**: This code file is to demonstrate a use of a chain of ifelse statements via mutate in exploring overcrowding on buses.
 
 
