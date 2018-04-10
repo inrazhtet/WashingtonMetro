@@ -26,12 +26,12 @@ Some of the datasets used in the project are as below:
 1. Mentoring undergraduate students in R programming
 2. Creating data dictionaries
 3. Data processing: standardizing time, pulling in GTFS data for joining tables, writing scaffold code for undergradutes to do data exploration on GIS map etc.
-4. Data generation: creating synthetic tripID (code snippet in this repo), calculating backdoor exits by census block groups etc
-5. Data exploration: Looking at overcrowding (code snippet in this repo) and fare evasion correlation. 
+4. Data generation: creating synthetic tripID (code snippet in this repo), calculating backdoor exits by census block groups etc.
+5. Data exploration: Looking at overcrowding (code snippet in this repo) and fare evasion correlation etc. 
 
 #### Code snippets
 
-1. **SyntheticTripID.R** : This code file is to demonstrate my familiarity with dplyr in using it to process over millions of rows of data.
+1. **SyntheticTripID.R**: This code file is to demonstrate my familiarity with dplyr in using it to process over millions of rows of data.
 2. **Overcrowding.R**: This code file is to demonstrate a use of a chain of ifelse statements via mutate in exploring overcrowding on buses.
 
 
