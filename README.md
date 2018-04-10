@@ -10,7 +10,7 @@ The Washington Metro loses substantial amount of revenue each year to fare evade
 Our goal is to use existing administrative data along with American Community Survey data at the census block level to find a narrative on where the most fare evasion is happening and why it is so.
 
 #### Team
-The lead Principal Investigator of the team is [Vicki Lancaster](https://www.bi.vt.edu/faculty/Vicki-Lancaster). Lata Kodali, a Ph.D. student in Statistics at Virginia Tech and I co-led a team of 4 undergraduate interns from Virginia Tech for this project.
+The lead Principal Investigator of the team was [Vicki Lancaster](https://www.bi.vt.edu/faculty/Vicki-Lancaster). Lata Kodali, a Ph.D. student in Statistics at Virginia Tech and I were the two Data Science for Public Good Fellows on the team. We co-led a team of 4 undergraduate interns from Virginia Tech for this project.
 
 #### Deliverables
 We presented our findings to the executives at the Washington Metro Transport Authority. We also did a symposium poster on some of our work which is in this repo under **WMATAFindings.pdf**
