@@ -8,7 +8,10 @@ The Washington Metro loses substantial amount of revenue each year to fare evade
 Our goal is to use existing administrative data along with American Community Survey data at the census block level to find a narrative on where the most fare evasion is happening and what could be the cause of it.
 
 #### Team
-The lead P.I of the team is [Vicki Lancaster](https://www.bi.vt.edu/faculty/Vicki-Lancaster). Lata Kodali, a Ph.D. student in Statistics at Virginia Tech and I co-led a team of 4 undergraduate interns from Virginia Tech for this project.
+The lead Principal Investigator of the team is [Vicki Lancaster](https://www.bi.vt.edu/faculty/Vicki-Lancaster). Lata Kodali, a Ph.D. student in Statistics at Virginia Tech and I co-led a team of 4 undergraduate interns from Virginia Tech for this project.
+
+#### Deliverables
+We presented our findings to the executive at the Washington Metro Transport Authority. We also did a symposium poster on some of our work which is in this repo under **WMATAFindings.pdf**
 
 #### Datasets
 *This repository is not for reproducibility. It is to highlight some of the work I have done via some code snippets. The datasets are under strict confidentiality agreement*
@@ -23,5 +26,6 @@ Some of the datasets used in the project are as below:
 1. Mentoring undergraduate students in R programming
 2. Creating data dictionaries
 3. Data cleaning: standardizing time, pulling in GTFS data for joining tables, writing scaffold code for undergradutes to do data exploration
-4. Data generation: creating synthetic tripID (code snippet in this repo)
-5. 
+4. Data generation: creating synthetic tripID (code snippet in this repo), calculating backdoor exits by census block groups etc
+5. Data exploration: Looking at overcrowding (code snippet in this repo) and fare evasion correlation. For overcrowding different bus types are used to determine what is considered "overcrowding" as well as WMATA's standard definition.
+
