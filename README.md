@@ -13,4 +13,15 @@ The lead P.I of the team is [Vicki Lancaster](https://www.bi.vt.edu/faculty/Vick
 #### Datasets
 *This repository is not for reproducibility. It is to highlight some of the work I have done via some code snippets. The datasets are under strict confidentiality agreement*
 
-1. 
+Some of the datasets used in the project are as below:
+1. Bus Stops (10,988 observations): bus stopID, latitude and longitude.
+2. Approximate Person Counter (3,793,655 observations): front & back door entries and exits for a bus, route, trip and bus stop.
+3. Farebox (2,729,688 observations): fare evasion key presses, cash and smart transaction by bus, trip and bus stop.
+
+#### Some of my contributions to the project
+
+1. Mentoring undergraduate students in R programming
+2. Creating data dictionaries
+3. Data cleaning: standardizing time, pulling in GTFS data for joining tables, writing scaffold code for undergradutes to do data exploration
+4. Data generation: creating synthetic tripID (code snippet in this repo)
+5. 
