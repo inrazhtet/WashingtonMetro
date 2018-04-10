@@ -1,6 +1,8 @@
 # WashingtonMetro
 ### Fare Evasion Investigation
 
+*This repository is **not** for reproducibility. It is to highlight a small portion of the work I have done via some code snippets. The datasets are under strict confidentiality agreement*
+
 #### Problem Statement
 The Washington Metro loses substantial amount of revenue each year to fare evaders (people who hop on bus without paying anything).
 
@@ -14,7 +16,6 @@ The lead Principal Investigator of the team is [Vicki Lancaster](https://www.bi.
 We presented our findings to the executives at the Washington Metro Transport Authority. We also did a symposium poster on some of our work which is in this repo under **WMATAFindings.pdf**
 
 #### Datasets
-*This repository is not for reproducibility. It is to highlight a small portion of the work I have done via some code snippets. The datasets are under strict confidentiality agreement*
 
 Some of the datasets used in the project are as below:
 1. Bus Stops (10,988 observations): bus stopID, latitude and longitude.
