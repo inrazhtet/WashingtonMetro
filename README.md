@@ -25,7 +25,10 @@ Some of the datasets used in the project are as below:
 
 1. Mentoring undergraduate students in R programming
 2. Creating data dictionaries
-3. Data cleaning: standardizing time, pulling in GTFS data for joining tables, writing scaffold code for undergradutes to do data exploration
+3. Data processing: standardizing time, pulling in GTFS data for joining tables, writing scaffold code for undergradutes to do data exploration on GIS map etc.
 4. Data generation: creating synthetic tripID (code snippet in this repo), calculating backdoor exits by census block groups etc
 5. Data exploration: Looking at overcrowding (code snippet in this repo) and fare evasion correlation. For overcrowding different bus types are used to determine what is considered "overcrowding" as well as WMATA's standard definition.
+
+#### Code snippets
+
 
