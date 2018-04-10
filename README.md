@@ -1,7 +1,7 @@
 # WashingtonMetro
 ### Fare Evasion Investigation
 
-*This repository is **not** for reproducibility. It is to highlight a small portion of the work I have done via some code snippets. The datasets are under strict confidentiality agreement*
+*This repository is **not** for reproducibility. It is to highlight a small portion of the work I have done via some code snippets. The datasets are under strict confidentiality agreement.*
 
 #### Problem Statement
 The Washington Metro loses substantial amount of revenue each year to fare evaders (people who hop on bus without paying anything).
