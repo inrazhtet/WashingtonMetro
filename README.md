@@ -31,7 +31,7 @@ Some of the datasets used in the project are as below:
 
 #### Code snippets
 
-**SyntheticTripID.R** : This code file is to demonstrate my familiarity with dplyr in using it to process over millions of rows of data.
-**Overcrowding.R**: This code file is to demonstrate a use of a chain of ifelse statements via mutate in exploring overcrowding on buses.
+1. **SyntheticTripID.R** : This code file is to demonstrate my familiarity with dplyr in using it to process over millions of rows of data.
+2. **Overcrowding.R**: This code file is to demonstrate a use of a chain of ifelse statements via mutate in exploring overcrowding on buses.
 
 
